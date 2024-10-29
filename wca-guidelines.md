@@ -44,7 +44,7 @@ To be more informative, each Guideline is classified using one of the following 
 ## <article-2><competitors><competitors> Article 2: Competitors
 
 - 2c+) [ADDITION] First-time competitors must register using their legal name or the name they prefer to be called in real life. Last names must be legal last names.
-- 2c2+) [CLARIFICATION] A WCA profile is the collection of data related to a competitor, and includes their personal information (name, region of representation, gender, and date of birth) as well as all their results in official WCA competitions.
+- 2c2+) [CLARIFICATION] A WCA profile is the collection of data related to a competitor, and includes their personal information (name, country, gender, and date of birth) as well as all their results in official WCA competitions.
 - 2d+) [ADDITION] Date of birth and contact information should be especially secured.
 - 2d++) [RECOMMENDATION] If a third party (e.g. journalist) asks the organization team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
 - 2e+) [CLARIFICATION] If a competitor holds multiple citizenships, they may choose which region to represent at their first competition.
@@ -99,7 +99,6 @@ To be more informative, each Guideline is classified using one of the following 
 - 4d++) [ADDITION] It is permitted for the puzzle to change its orientation when it is moved from the scrambler to the solving station, as long as no one is attempting to influence the randomness of the orientation (see [Regulation A2e1](regulations:regulation:A2e1)).
 - 4f+) [RECOMMENDATION] The WCA Delegate should generate sufficient scramble sequences for the entire competition ahead of time, including spare scramble sequences for extra attempts.
 - 4f++) [REMINDER] If the WCA Delegate generates any additional scramble sequences during the competition, the scramble sequences must be saved.
-- 4g+) [RECOMMENDATION] For Multi-Blind Solving, after scrambling all the cubes, the scrambler must verify there are no duplicate scrambles.
 - 4g1b+) [CLARIFICATION] For 5x5x5 Blindfolded, incorrect puzzle states must always be corrected.
 - 4g1b++) [RECOMMENDATION] The WCA Delegate should use stronger discretion when determining whether or not incorrect puzzle states for 5x5x5 Cube need to be corrected.
 

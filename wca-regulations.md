@@ -42,7 +42,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
 - 1a) A competition must include a WCA Delegate and an organization team (consisting of one or more individuals) with the following officials: judges, scramblers and score takers.
 - 1b) The organization team of a competition is responsible for logistics before, during, and after the competition.
 - 1c) The WCA Delegate is responsible for ensuring that the competition adheres to the WCA Regulations and any applicable WCA policies or requirements. The WCA Delegate may appoint other members of the organization team to carry out specific responsibilities on their behalf, but is ultimately accountable for how these responsibilities are carried out.
-    - 1c1) The WCA Delegate must ensure that the competition follows the [WCA Scramble Accountability Policy](https://www.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
+    - 1c1) The WCA Delegate must ensure that the competition follows the [WCA Scramble Accountability Policy](https://documents.worldcubeassociation.org/documents/policies/external/Scramble%20Accountability.pdf).
 - 1e) Each event must have one or more judges.
     - 1e1) A judge is responsible for executing the procedures of the event.
         - 1e1a) A judge may judge multiple competitors simultaneously at the discretion of the WCA Delegate, as long as the judge is able to ensure that all WCA Regulations are followed at all times.
@@ -67,15 +67,15 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2a3) Are not suspended from participation by the WCA.
     - 2a4) Comply with all reasonable safety measures deemed necessary by the WCA Delegate, which must be clearly announced before the competition.
 - 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
-- 2c) Competitors register by providing all information required by the organization team (including: name, region of representation, date of birth, gender, contact information, selected events).
+- 2c) Competitors register by providing all information required by the organization team (including: name, country, date of birth, gender, contact information, selected events).
     - 2c1) A competitor is not eligible to compete without a completed registration, as determined by the organization team and the WCA Delegate.
-    - 2c2) Returning competitors must provide personal information consistent with their WCA profile. If a competitor wishes to change or update their personal information between competitions (e.g. a change of region of representation, name, or gender), they must [contact the WCA Results Team](https://www.worldcubeassociation.org/contact/website) either directly or through a WCA Delegate.
-- 2d) A competitor's name, region of representation, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organizations/persons without the consent of the competitor.
-- 2e) Competitors must represent a region of which they hold citizenship. The WCA Delegate should verify citizenship by means of documents or photos of documents (e.g. a passport) at their first competition. If a competitor is found ineligible to represent the region under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
-    - 2e1) The eligible regions of representation are defined by the [WCA List of Recognized Regions](https://www.worldcubeassociation.org/regulations/countries/).
-    - 2e2) Competitors may change their region of representation only before or at their first competition of a calendar year.
-        - 2e2a) Exception: If the competitor loses citizenship of the region which they were previously representing, they must change their region of representation before or at their next competition (see [Regulation 2c2](regulations:regulation:2c2)).
-        - 2e2b) Exception: If the competitor has acquired a new citizenship within the calendar year, they may change their region of representation to their new citizenship at any point between competitions.
+    - 2c2) Returning competitors must provide personal information consistent with their WCA profile. If a competitor wishes to change or update their personal information between competitions (e.g. a change of country, name, or gender), they must [contact the WCA Results Team](https://www.worldcubeassociation.org/contact?contactRecipient=wrt) either directly or through a WCA Delegate.
+- 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organizations/persons without the consent of the competitor.
+- 2e) Competitors must represent a country of which they hold citizenship. The WCA Delegate should verify citizenship by means of documents or photos of documents (e.g. a passport) at their first competition. If a competitor is found ineligible to represent the country under which they have registered, the competitor may be disqualified retroactively and/or suspended, at the discretion of the WCA Board.
+    - 2e1) The eligible countries are defined by the [WCA List of Recognized Countries](https://www.worldcubeassociation.org/regulations/countries/).
+    - 2e2) Competitors may change their country only before or at their first competition of a calendar year.
+        - 2e2a) Exception: If the competitor loses citizenship of the country which they were previously representing, they must change their country before or at their next competition (see [Regulation 2c2](regulations:regulation:2c2)).
+        - 2e2b) Exception: If the competitor has acquired a new citizenship within the calendar year, they may change their country to their new citizenship at any point between competitions.
     - 2e3) Competitors who have no citizenship may compete as "Stateless".
 - 2f) Competitors must obey venue rules and conduct themselves in a considerate manner.
 - 2g) Competitors must remain quiet when inside the designated competition area. Talking is permitted, but must be kept at a reasonable level, and away from competitors who are actively competing.
@@ -94,7 +94,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 2j1) If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.
         - 2j1a) If the competitor has already started at least one attempt in a round before being disqualified from it, the results of all remaining attempts in the event are recorded as DNF. If the competitor has started no attempts (i.e. has no results or only has DNS results), no results are recorded.
     - 2j2) Results from attempts that are completed when the disqualification is applied, must not be disqualified. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
-    - 2j3) Specific completed attempts may be disqualified under the circumstances described in [Regulation 2k](regulations:regulation:2k), only if the relevant incident ocurred during the attempt.
+    - 2j3) Specific completed attempts may be disqualified under the circumstances described in [Regulation 2k](regulations:regulation:2k), only if the relevant incident occurred during the attempt.
 - 2k) At the discretion of the WCA Delegate, a competitor may be disqualified from specific attempts and/or events (a single event, multiple events, or all events) if the competitor:
     - 2k1) Fails to check in or register in time for the competition.
     - 2k2) Is suspected of cheating or defrauding the officials during the competition.
@@ -135,7 +135,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
         - 3h2a) Puzzles with transparent parts that can reveal more information about the state of the puzzle. Exception: An overlay sticker or a logo (see [Regulation 3l](regulations:regulation:3l)).
     - 3h3) Any modifications to a puzzle that result in poor performance by a competitor are not grounds for additional attempts.
     - 3h4) For Clock, the following modifications are permitted:
-        - 3h4a) Customs "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
+        - 3h4a) Custom "inserts" (the same shape and size as the traditional paper inserts) are permitted, at the discretion of the WCA Delegate. The inserts must have a clear indication of 12 o'clock that matches the original inserts.
         - 3h4b) Puzzle design customizations that do not give an unfair advantage may be permitted, at the discretion of the WCA Delegate (e.g. checkerboard pattern clocks, faces with a custom design, tape on the side of the Clock).
         - 3h4c) Customizations which distinguish pins from other pins of the same side are permitted, at the discretion of the WCA Delegate.
         - 3h4d) Logos anywhere on the puzzle, as long as the inner clock faces remain uncovered.
@@ -184,7 +184,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 4g1) The following exceptions apply:
         - 4g1a) For the 6x6x6 Cube, 7x7x7 Cube, and Megaminx, it is not necessary to correct the puzzle state, at the discretion of the WCA Delegate.
         - 4g1b) For the 5x5x5 Cube, the scrambler should correct the puzzle state. If correcting the puzzle state would cause a severe detriment to the schedule, it is not necessary to correct it, at the discretion of the WCA Delegate.
-
+    - 4g2) For Multi-Blind Solving, after scrambling all the cubes, the scrambler must verify there are no duplicate scrambles.
 
 ## <article-5><puzzle-defects><puzzledefects> Article 5: Puzzle Defects
 
@@ -282,6 +282,7 @@ Note: Because Article and Regulation numbers are not reassigned when Regulations
     - 9p2) The competitors who advance to the next round must be determined by ranking (best X competitors) or by result (all competitors with a better result than X) in the preceding round.
         - 9p2a) For each round, advancement conditions must be announced before the round starts, and should not be changed after it has begun. Changes must be made at the discretion of the WCA Delegate, who must carefully consider the fairness of the change.
     - 9p3) If a qualifying competitor withdraws from a round, they may be replaced by the best-ranked non-qualifying competitor from the preceding round.
+    - 9p4) A competitor with results of only DNF and/or DNS is not eligible to advance.
 - 9s) Each round of each event must have a time limit (see [Regulation A1a](regulations:regulation:A1a)).
 - 9t) If any change occurs to the results of a competitor after the competition has ended (e.g. score-taking mistake, retroactive penalty), such that the competitor should not have advanced to the next round (or was not allowed to take part in the round), all results of this competitor for all subsequent rounds must be removed (see [Regulation 9u](regulations:regulation:9u)).
     - 9t1) If this makes a round no longer compliant with [Regulation 9p1](regulations:regulation:9p1), results of other competitors must not be removed.
